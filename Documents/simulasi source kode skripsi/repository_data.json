@@ -1,0 +1,2277 @@
+{
+  "metadata": {
+    "source": "UNP Kediri Repository",
+    "subject_code": "462",
+    "total_entries": 216,
+    "scraped_at": "2025-04-09 19:04:59"
+  },
+  "data": [
+    {
+      "authors": [
+        "ARSYAD, NANDITO PRAMUDYA"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15200/",
+      "title": "SISTEM DETEKSI TUMOR OTAK MENGGUNAKAN METODE CONVOLUTIONAL NEURAL NETWORK DENGAN ARSITEKTUR VGG-16.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Adelonix Regia, Raffin",
+        "ANITA SARI, WARDANI",
+        "SUCIPTO, SUCIPTO"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7070/",
+      "title": "Sistem Informasi Penjualan Berbasis Adroid Webview Pada Outlet Marboba.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Adi Arisandi, Adi Arisandi",
+        "ARDI SANJAYA, ARDI SANJAYA",
+        "DANAR PUTRA PAMUNGKAS, DANAR PUTRA PAMUNGKAS"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11782/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN USULAN PEMILIHAN PARIWISATA KABUPATEN KEDIRI DENGAN METODE SIMPLE ADDITIVE WEIGHTING.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Afandi, Aris",
+        "FARIDA, INTAN NUR",
+        "MAHDIYAH, UMI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6371/",
+      "title": "SISTEM PREDIKSI STOK BARANG DENGAN ALGORITMA APRIORI DAN METODE MOVING AVERAGE DI UD. SUBUR KEDIRI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Al Fabich, Mochammad Iqbal Desta",
+        "FARIDA, INTAN NUR",
+        "HELILINTAR, RISA"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/13204/",
+      "title": "IMPLEMENTASI K-MEANS CLUSTERING DALAM PEMILIHAN PELANGGAN POTENSIAL DI BEE LAUNDRY.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Albab, Moch. Idwal Ulil",
+        "NISWATIN, RATIH KUMALASARI",
+        "WAHYUNIAR, LILIA SINTA"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6376/",
+      "title": "PERANCANGAN SISTEM STOK BARANG DENGAN METODE FIFO.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Albab, Moch. Idwal Ulil",
+        "NISWATIN, RATIH KUMALASARI",
+        "WAHYUNIAR, LILIA SINTA"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6203/",
+      "title": "PERANCANGAN SISTEM STOK BARANG PADA TOKO BU KURUN MENGGUNAKAN METODE FIFO.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Alexander, Kevin Rio",
+        "SAHERTIAN, JULIAN",
+        "KUMALASARI, RATIH NISWATIN"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/10953/",
+      "title": "IMPLEMENTASI ALGORITMA A* SEBAGAI METODE PATHFINDING PADA GAME PLATFORMER  “WORLD OF FANTASIA”.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Alfiantama, Ilham"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15607/",
+      "title": "IMPLEMENTASI METODE HAAR CASCADE PADA DETEKSI OBJEK HAMA DAN PENYAKIT TANAMAN BAWANG MERAH.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Amartama, Salis Nilam"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/14363/",
+      "title": "SISTEM BANTU PEMILIHAN ALBUM K-POP DENGAN METODE MULTI OBJECTIVE OPTIMIZATION BY RATIO ANALYSIS (MOORA).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Amartama, Salis Nilam"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16720/",
+      "title": "SISTEM BANTU PEMILIHAN ALBUM K-POP DENGAN METODE MULTI OBJECTIVE OPTIMIZATION BY RATIO ANALYSIS (MOORA).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Amelia, Dhella Dhelviana Tiara",
+        "WULANNINGRUM, RESTY",
+        "SULAKSONO, JULI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/9246/",
+      "title": "IMPLEMENTASI KLASIFIKASI CITRA GESTUR TANGAN BERBASIS CNN (CONVOLUTIONAL NEURAL NETWORK).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Amrulloh, M. Farij"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/14820/",
+      "title": "PENERAPAN ALGORITMA CONVOLUTIONAL NEURAL NETWORK ARSITEKTUR XCEPTION UNTUK KLASIFIKASI HAMA DAN PENYAKIT DAUN BAWANG.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Andika, Bagus Dwi",
+        "SUCIPTO, SUCIPTO",
+        "NUGROHO, ARIE"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/9135/",
+      "title": "AUDIT SISTEM INFORMASI PUSAT DATA ARSIP APARATUR SIPIL NEGARA KOTA KEDIRI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Andriyanto, Teguh",
+        "Indriati, Rini"
+      ],
+      "year": "2017",
+      "link": "https://repository.unpkediri.ac.id/2406/",
+      "title": "RESTFul Web service Untuk Integrasi Antar Sistem Informasi.",
+      "source": "Jurnal Sains dan Informatika, 3 (2).     pp. 116-121.     ISSN 2598-5841"
+    },
+    {
+      "authors": [
+        "Andriyanto, Teguh",
+        "Permatadeny Nevita, Ary"
+      ],
+      "year": "2019",
+      "link": "https://repository.unpkediri.ac.id/2405/",
+      "title": "Auto Purchase Order System Between Retailer and Distributor.",
+      "source": "TELKOMNIKA (Telecommunication Computing Electronics and Control), 17 (2).     pp. 660-668.     ISSN 2302-9293"
+    },
+    {
+      "authors": [
+        "Anggraini, Ika Yunida",
+        "Sucipto, Sucipto",
+        "Indriati, Rini"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2704/",
+      "title": "Cyberbullying Detection Modelling at Twitter Social Networking.",
+      "source": "JUITA: Jurnal Informatika, 6 (2).     pp. 113-118.     ISSN 2579-8901"
+    },
+    {
+      "authors": [
+        "Ansyah, Moch.anggi",
+        "SETIAWAN, AHMAD BAGUS",
+        "WIDODO, DANANG WAHYU"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2074/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN PEMBERIAN REWARD DAN PUNISHMENT KARYAWAN MENGGUNAKAN METODE ANALYTICAL HIERARCHY PROCESS(AHP)STUDI KASUS(P.G LESTARI).",
+      "source": "Prosiding Semnasinotek 2020.         ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "Anwarruddin, Muhammad Tri",
+        "SANJAYA, ARDI",
+        "SAHERTIAN, JULIAN"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2169/",
+      "title": "HAND GESTURE RECOGNITION UNTUK INTERAKSI ANAK AUTIS DENGAN ALGORITMA CONVEX HULL.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Apriansa, Rendi Dwi",
+        "FARIDA, INTAN NUR",
+        "MAHDIYAH, UMI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/5654/",
+      "title": "PENERAPAN DATA MINING DALAM MENENTUKAN REKOMENDASI POIN PRODUK MENGGUNAKAN ALGORITMA FP-GROWTH DAN K-MEANS CLUSTERING.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Aprilia, Tri Krisna Wati",
+        "SETIAWAN, AHMAD BAGUS",
+        "SULAKSONO, JULI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/10474/",
+      "title": "KLASTERISASI MERK OLI SEBAGAI PENGENDALI PERSEDIAAN BARANG PADA TOKO SUKA OLI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Aprillyano, Rio",
+        "SANJAYA, ARDI",
+        "WIDODO, DANANG WAHYU"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6334/",
+      "title": "KLASIFIKASI KUALITAS TELUR AYAM MENGGUNAKAN METODE K-MEANS CLUSTERING.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Aprillyano, Rio",
+        "SANJAYA, ARDI",
+        "WIDODO, DANANG WAHYU"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6377/",
+      "title": "KLASIFIKASI KUALITAS TELUR AYAM MENGGUNAKAN METODE K-MEANS CLUSTERING.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Aqharabah, Bhisri Hafi"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/14644/",
+      "title": "PERBANDINGAN METODE MFEP DAN MAUT DALAM SELEKSI CALON PESERTA OLIMPIADE SAINS NASIONAL DI SMP NEGERI 1 BANYAKAN.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Ardiansyah, Abdul Riqza"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/14987/",
+      "title": "IMPLEMENTASI METODE SVM UNTUK KLASIFIKASI CITRA PENYAKIT DAN HAMA PADA TANAMAN BAWANG MERAH.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Arianto, Dwi Bagus",
+        "KASIH, PATMI",
+        "WIDYADARA, MADE AYU DUSEA"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/5872/",
+      "title": "Pengenalan Pola Huruf Dan Khat Hija’iyyah Dengan Deteksi Tepi Sobel Menggunakan Algoritma Backpropagation.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Arifin, Nanang",
+        "IRAWAN, RONY HERI",
+        "FARIDA, INTAN NUR"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/8662/",
+      "title": "ALGORITMA K-MEANS UNTUK MEMPREDIKSI STOK BAHAN BAKU PRODUKSI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Asrori, Andre Gus",
+        "MAHDIYAH, UMI",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/10982/",
+      "title": "Implementasi Metode Jaringan Syaraf Tiruan Backpropagation untuk Prediksi Harga Daging Ayam Broiler Di Kabupaten Tulungagung, Skripsi, Teknik Informatika.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Audianingrum, Arike Septi",
+        "PAMUNGKAS, DANAR PUTRA",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/1226/",
+      "title": "PENGENALAN JENIS BUNGA DENGAN METODE LEARNING VECTOR QUANTIZATION DAN MANHATTAN DISTANCE.",
+      "source": "Prosiding Semnasinotek 2020.         ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "Aziema, Alfin",
+        "HELILINTAR, RISA",
+        "SETIAWAN, AHMAD BAGUS"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/12405/",
+      "title": "IMPLEMENTASI METODE SMART UNTUK MENENTUKAN POSISI IDEAL PEMAIN SEPAK BOLA.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Azis, Abdul",
+        "Pamungkas, Danar Putra",
+        "Setiawan, Ahmad Bagus"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/3970/",
+      "title": "Analisa Perbandingan Algoritma Euclidean Dan Manhattan Distance Dalam Identifikasi Wajah.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Aziz, Muhammad Abdul",
+        "WULANNINGRUM, RESTY",
+        "SWANJAYA, DANIEL"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/4021/",
+      "title": "STUDI PERBANDINGAN PERBAIKAN KUALITAS CITRA GESTUR TANGAN MENGGUNAKAN METODE HISTOGRAM EQUALIZATION DENGAN ADAPTIVE HISTOGRAM EQUALIZATION.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Bahrudin, Rahmad Riza",
+        "MUZAKI, M. NAJIBULLOH",
+        "WARDANI, ANITA SARI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/9049/",
+      "title": "PENGUKURAN TINGKAT EFEKTIFITAS SISTEM INFORMASI PERPUSTAKAAN MENGGUNAKAN TEORI DELONE &amp; MCLEAN DI TAMAN BACAAN MASYARAKAT GELARAN BUKU JAMBU.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Bayu Aji, Abraham Dimas",
+        "SWANJAYA, DANIEL",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/5863/",
+      "title": "PERBANDINGAN IMPLEMENTASI METODE K-NEAREST NEIGHBOR (K-NN) DAN DECISION TREE PADA MODEL IDENTIFIKASI DIVISI DI HIMAPRODI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "CRYSTINA OKTAVIANTI, ADELYA",
+        "SETIAWAN, AHMAD BAGUS",
+        "SHOFIA, NISKA"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/4031/",
+      "title": "Pengenalan Pola Karakter Aksara Jawa Menggunakan Metode Perceptron Aplikasi Carakan.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Cahya, Heffi Awang",
+        "WULANNINGRUM, RESTY",
+        "PAMUNGKAS, DANAR PUTRA"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2375/",
+      "title": "Sistem Prediksi Fuzzy Time Series dan Perangkingan Weighted Product pada Penjualan Es Buah.",
+      "source": "Kumpulan Jurnal Ilmu Komputer (KLIK), 7 (2).     pp. 103-115.     ISSN 2406-7857"
+    },
+    {
+      "authors": [
+        "DARA, MADE AYU DUSEA WIDYA",
+        "Sari, Kartika Rahayu Tri Prasetyo"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/4671/",
+      "title": "Monitoring and Notification System Air Quality Against Carbon Monoxide in The Study Room IoT based.",
+      "source": "Jurnal Intensif,, 5 (1).     pp. 121-133.     ISSN ISSN 2549-6824"
+    },
+    {
+      "authors": [
+        "Daffa Yulendra, Refizal",
+        "Indrawati, Elsanda Merita",
+        "Maulidina, Miftakhul"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/12769/",
+      "title": "RANCANG BANGUN ALAT MONITORING NOTIFIKASI PINTU RUMAH MENGGUNAKAN BOT TELEGRAM BERBASIS IOT.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Damara, Moch. Deifa Satrio",
+        "FARIDA, INTAN NUR",
+        "SAHERTIAN, JULIAN"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/4030/",
+      "title": "SISTEM PREDIKSI MINAT PENJUALAN JAKET DIGROSIR MURAH KEDIRI MENGGUNAKAN METODE NAIVE BAYES.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Dhiannisa, Fina"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16726/",
+      "title": "ANALISIS KUALITAS WEBSITE E-PERPUS MENGGUNAKAN METODE WEBQUAL 4.0 DAN IMPORTANCE PERFORMANCE ANALYSIS (IPA).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Donni, Rezaldy",
+        "NISWATIN, RATIH KUMALASARI",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6856/",
+      "title": "SISTEM INFORMASI TOKO BUKU ONLINE.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "ERWIN SYAHRUDIN, ERWIN SYAHRUDIN",
+        "PATMI KASIH, PATMI KASIH",
+        "DANAR PUTRA PAMUNGKAS, DANAR PUTRA PAMUNGKAS"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/5820/",
+      "title": "SISTEM PENENTUAN JENIS BANTUAN DAN PENYALURAN ZAKAT BAGI PENERIMA MANFAAT MENGGUNAKAN METODE SAW DAN AHP.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Efendy, Wahyu",
+        "DUSEA WIDYA DARA, MADE AYU",
+        "SETIAWAN, AHMAD BAGUS"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/1697/",
+      "title": "APLIKASI ANTRIAN PELAYANAN PENCAKER PADA DINAS TENAGA KERJA KABUPATEN JOMBANG DENGAN MODEL M/M/S.",
+      "source": "Prosiding Semnasinotek 2020.         ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "Eka Prastya, Damar Zanuar",
+        "PAMUNGKAS, DANAR PUTRA",
+        "NISWATIN, RATIH KUMALASARI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/8309/",
+      "title": "PERBAIKAN CITRA (IMAGE SMOOTHING) DENGAN MENGGUNAKAN METODE GAUSSIAN FILTER DAN MEDIAN FILTER.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Ekta Aprilliswanto, Rino",
+        "SANJAYA, ARDI",
+        "WIDODO, DANANG WAHYU"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/4036/",
+      "title": "IDENTIFIKASI POLA KALIMAT BAHASA INDONESIA PADA SISWA SEKOLAH DASAR MENGGUNAKAN METODE LALR DAN STEMMING.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Erwanto, Elga Asfa",
+        "SANJAYA, ARDI",
+        "SAHERTIAN, JULIAN"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/1809/",
+      "title": "SISTEM CERDAS PENCARI TEMPAT PARKIR DENGAN ALGORITMA BLOB DETECTION DAN MANHATTAN DISTANCE.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Erwin Syahrudin, Erwin Syahrudin",
+        "PATMI KASIH, PATMI KASIH",
+        "DANAR PUTRA PAMUNGKAS, DANAR PUTRA PAMUNGKAS"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/5256/",
+      "title": "Algoritma SAW dengan Pembobotan AHP pada Sistem Penentuan Jenis Penyaluran Zakat Di Lembaga Amil Zakat.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Erwin Syahrudin, Erwin Syahrudin",
+        "PATMI KASIH, PATMI KASIH",
+        "DANAR PUTRA PAMUNGKAS, DANAR PUTRA PAMUNGKAS"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7913/",
+      "title": "SISTEM PENENTUAN JENIS BANTUAN DAN PENYALURAN ZAKAT BAGI PENERIMA MANFAAT MENGGUNAKAN METODE SAW DAN AHP.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "FADLA, MUHAMAD YUSRIL",
+        "WIDYADARA, MADE AYU DUSEA",
+        "KASIH, PATMI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11257/",
+      "title": "GAME EDUKASI PENGENALAN SUMBER DAYA ALAM HAYATI DAN NON HAYATI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "FARIDA, NUR",
+        "FARIDA, INTAN NUR",
+        "SAHERTIAN, JULIAN"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6449/",
+      "title": "IMPLEMENTASI METODE NAÏVE BAYES CLASSIFICATION DALAM MENENTUKAN GIZI BALITA MENGGUNAKAN INDEKS ANTROPOMETRI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "FERNANDIS, RASIO"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15159/",
+      "title": "PENERAPAN LATENT DIRICHLET ALLOCATION PADA KLASIFIKASI ANAK TAMAN KANAK-KANAK (TK) BERDASARKAN CATATAN ANEKDOT.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "FIKRIANSYAH, MOCHAMMAD WILDAN",
+        "NUR FARIDA, INTAN",
+        "KUMALASARI NISWATIN, RATIH"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2253/",
+      "title": "APLIKASI SELEKSI PEMAIN FUTSAL MENGGUNAKAN METODE SAW DENGAN PEMBOBOTAN ROC.",
+      "source": "Prosiding Semnasinotek 2020.     pp. 1-6.     ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "FIRLIANA, RINA",
+        "Kasih, Patmi"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2468/",
+      "title": "Algoritma dan Pemrograman C++.",
+      "source": "In:        Algoritma dan Pemrograman C++.            Adjie Media Nusantara, Nganjuk, pp. 1-82.     ISBN 978-602-5605-25-3"
+    },
+    {
+      "authors": [
+        "FIRLIANA, RINA",
+        "Sari, Kartika Rahayu Tri Prasetyo"
+      ],
+      "year": "2019",
+      "link": "https://repository.unpkediri.ac.id/4673/",
+      "title": "Sistem Informasi Penjualan Daging Sapi Berbasis Web.",
+      "source": "Seminar Nasional Inovasi Teknologi, 3 (1).     pp. 134-137.     ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "FIRLIANA, RINA",
+        "Sari, Kartika Rahayu Tri Prasetyo"
+      ],
+      "year": "2019",
+      "link": "https://repository.unpkediri.ac.id/4692/",
+      "title": "Sistem Informasi Penjualan Daging Sapi Berbasis Web.",
+      "source": "Prosiding Seminar Nasional Inovasi Teknologi, Fakultas Teknik Universitas Nusantara PGRI, 3 (1).     pp. 134-137.     ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "FIRLIANA, RINA",
+        "Sari, Kartika Rahayu Tri Prasetyo"
+      ],
+      "year": "2019",
+      "link": "https://repository.unpkediri.ac.id/4700/",
+      "title": "Sistem Informasi Penjualan Daging Sapi Berbasis Web.",
+      "source": "Prosiding Seminar Nasional Inovasi Teknologi, 3 (1).     pp. 134-137.     ISSN 2549-7952, 23 Februari 2019"
+    },
+    {
+      "authors": [
+        "FITRIANA, DWI",
+        "PAMUNGKAS, DANAR PUTRA",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2394/",
+      "title": "IMPLEMENTASI METODE ASSOCIATION RULE UNTUK MENENTUKAN REKOMENDASI PROMOSI PRODUK TOKO ARIMBI JILBAB.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Fadli, Abi Ihsan"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15896/",
+      "title": "PENGOPTIMALAN KOMPRESI IMAGE 2D MENGGUNAKAN ALGORITMA DISCRETE WAVELET TRANSFORM.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Fatria, Nur Lathif Dhoni",
+        "Andriyanto, Teguh",
+        "Indriati, Rini"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6628/",
+      "title": "Artikel : SISTEM KEAMANAN MENGGUNAKAN FINGERPRINT &amp; GPS PADA SEPEDA MOTOR.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Fatria, Nur Lathif Dhoni",
+        "Andriyanto, Teguh",
+        "Indriati, Rini"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6595/",
+      "title": "SISTEM KEAMANAN MENGGUNAKAN FINGERPRINT &amp; GPS PADA SEPEDA MOTOR.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Fauzi, Moh Farih"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16562/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN DALAM PEMILIHAN TANAMAN HORTIKULTURA UPAYA PRODUKTIVITAS LAHAN PEKARANGAN.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Fernando, Achmad Youngky",
+        "MAHDIYAH, UMI",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/10983/",
+      "title": "Sistem Peramalan (Forecasting) Saham BBCA.JK Menggunakan Metode Support Vector Regression.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Firman Syah, Azriel Akbar"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16682/",
+      "title": "SISTEM BANTU PEMILIHAN EKSPEDISI PENGIRIMAN TERBAIK DAN DIMINATI OLEH MASYARAKAT MENGGUNAKAN METODE WEIGHTED PRODUCT (WP).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Firmansyah Mukti Wijaya, Mukti",
+        "DANAR PUTRA PAMUNGKAS, DANAR",
+        "DANIEL SWANJAYA, DANIEL"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11865/",
+      "title": "IMPLEMENTASI ALGORITMA ADAPTIVE THRESHOLDING DAN K-MEANS CLUSTERING SEBAGAI METODE SEGMENTASI CITRA DAUN BAWANG MERAH.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Giandaka, Destria Septy Dara Firstila Putri"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/13652/",
+      "title": "ANALISIS KUALITAS SISTEM INFORMASI PERPUSTAKAAN.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Gresiva Devi Angel, Gresiva Devi Angel",
+        "RESTY WULANNINGRUM, RESTY WULANNINGRUM",
+        "DANAR PUTRA PAMUNGKAS, DANAR PUTRA PAMUNGKAS"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2309/",
+      "title": "MACHINE LEARNING UNTUK IDENTIFIKASI TANDA TANGAN MENGGUNAKAN GLCM DAN EUCLIDEAN DISTANCE.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "HERMAWAN, DODY RYO",
+        "WAHYU WIDODO, DANANG",
+        "SETIAWAN, AHMAD BAGUS"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2159/",
+      "title": "KLASIFIKASI BUNGA MELATI BERDASARKAN JENIS MENGGUNAKAN METODE LEARNING VECTOR QUANTIZATION (LVQ).",
+      "source": "Prosiding Semnasinotek 2020.         ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "Hamid, Ridho Nur",
+        "NISWATIN, RATIH KUMALASARI",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6857/",
+      "title": "IMPLEMENTASI METODE ROC DAN SAW DALAM SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN SMARTPHONE.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Hamid, Ridho Nur",
+        "NISWATIN, RATIH KUMALASARI",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7050/",
+      "title": "PERANCANGAN SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN SMARTPHONE MENGGUNAKAN METODE ROC DAN SAW.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Harini, Dwi",
+        "Kasih, Patmi"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2368/",
+      "title": "Layanan Berbasis Lokasi dalam Sistem Informasi dan Rute Rumah Sakit di Kota Kediri.",
+      "source": "Journal Of Informatic UNISLA (JOUTICA), 3 (2).     pp. 194-200.     ISSN 2503-071X"
+    },
+    {
+      "authors": [
+        "Hariri, Fajar Rohman",
+        "Pamungkas, Danar Putra"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2357/",
+      "title": "Klasifikasi Jenis Golongan Darah Menggunakan Fuzzy C-Means Clustering (FCM) dan Learning Vector Quantization (LVQ).",
+      "source": "Jurnal MATICS : Jurnal Ilmu Komputer dan Teknologi Informasi, 10 (1).     pp. 26-29.     ISSN 1978-161X(p); 2477-2550(e)"
+    },
+    {
+      "authors": [
+        "Huda, Rohmat Syamsul",
+        "WULANNINGRUM, RESTY",
+        "SWANJAYA, DANIEL"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6086/",
+      "title": "SISTEM CERDAS DETEKSI PELAT NOMOR UNTUK PELANGGARAN HELM DAN MASKER.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "ILHAM, MILLENIALDO YANUAR",
+        "WULANNINGRUM, RESTY",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7189/",
+      "title": "Implementasi Naïve Bayes Sebagai Deteksi Tindak Kekerasan dengan Citra Gestur Tangan.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "ILHAM, MILLENIALDO YANUAR",
+        "WULANNINGRUM, RESTY",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6873/",
+      "title": "PENERAPAN SISTEM CERDAS PADA KAMERA CCTV UNTUK ALARM TINDAK KEKERASAN MENGGUNAKAN GESTUR TELAPAK TANGAN DENGAN METODE NAÏVE BAYES.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Ibrahim, Rahmad"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16458/",
+      "title": "PERANCANGAN SISTEM PENILAIAN MAHASISWA BERPRESTASI PADA UNIT KEGIATAN MAHASISWA ESPORTS UNP KEDIRI MENGGUNAKAN METODE SAW.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Ikrom, Ibnu Al"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/14824/",
+      "title": "PERANCANGAN SISTEM PENJADWALAN TEKNISI DENGAN METODE SAW DAN PEMBOBOTAN ROC DI PT. SUPRA PRIMATAMA NUSANTARA (BIZNET).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Irawati, Elsa",
+        "RISTYAWAN, AIDINA",
+        "NUGROHO, ARIE"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7309/",
+      "title": "KELAYAKAN PEMBERIAN KREDIT MENGGUNAKAN SIMPLE ADDITIVE WEIGHTING (SAW) DAN ANALYTICAL HIERARCHY PROCESS (AHP).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Iswoyo, Yodhi Pratama"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15933/",
+      "title": "DETEKSI JENIS BURUNG MENGGUNAKAN YOLO5.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Jauhari, Nur Mohamad Iqbal"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16112/",
+      "title": "SISTEM DETEKSI KENDARAAN MENGGUNAKAN METODE YOLO V8 MELALUI REKAMAN CCTV.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Kamba, Enos Bungsenior",
+        "FIRLIANA, RINA",
+        "NUGROHO, ARIE"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/8615/",
+      "title": "PENGEMBANGAN SISTEM INFORMASI PENERIMAAN MAHASISWA BARU DI UNIVERSITAS NUSANTARA PGRI KEDIRI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Karim, Ahmad Assril",
+        "SETIAWAN, AHMAD BAGUS",
+        "WIDODO, DANANG WAHYU"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11400/",
+      "title": "PEMBUATAN APLIKASI SIMULASI UJIAN CAT PENERIMAAN PEGAWAI PEMERINTAH PERJANJIAN KERJA GURU BERBASIS WEBSITE.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Kholis, Moh Nur",
+        "Sucipto, Sucipto",
+        "FIRLIANA, RINA"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2711/",
+      "title": "Sistem Pendukung Keputusan Penerimaan Santri Baru Di Pondok Modern AlIslam Kapas Sukomoro Nganjuk Jawa Timur Menggunakan Metode Topsis.",
+      "source": "Jurnal Sistem Informasi, 10 (1).     pp. 1503-1514.     ISSN 2355-4614"
+    },
+    {
+      "authors": [
+        "Krisnawan, Mukhamad Nafis"
+      ],
+      "year": "2025",
+      "link": "https://repository.unpkediri.ac.id/17676/",
+      "title": "IMPLEMENTASI PENENTUAN BAKAL CALON KETUA IPNU DENGAN METODE AHP DAN TOPSIS.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Krisnawati, Gita Natalia",
+        "Sucipto, Sucipto",
+        "FIRLIANA, RINA"
+      ],
+      "year": "2019",
+      "link": "https://repository.unpkediri.ac.id/2713/",
+      "title": "Evaluasi Penerapan Sim-Rs Menggunakan Cobit 5 pada RSUD Lawang.",
+      "source": "Antivirus: Jurnal Ilmiah Teknik Informatika, 13 (2).     pp. 80-89.     ISSN 2527-337X"
+    },
+    {
+      "authors": [
+        "Kurniawan, Rizki Dwi",
+        "IRAWAN, RONY HERI",
+        "MAHDIYAH, UMI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11404/",
+      "title": "SISTEM PAYMENT VOUCHER DENGAN PAYMENT GATEWAY.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Kurniawan, Sony Dwi",
+        "Andriyanto, Teguh",
+        "Sucipto, Sucipto"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2696/",
+      "title": "The Design of Traditional Market Management Using SMS Gateway.",
+      "source": "In: Seminar Nasional Inovasi dan Teknologi (SEMNASINOTEK), 25 Juli 2020, Fakultas Teknik Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "LISTIYANTO NUGROHO, WAHYU RAHMAN",
+        "DANAR PUTRA PAMUNGKAS, DANAR PUTRA PAMUNGKAS",
+        "KUMALASARI NISWATIN, RATIH"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7325/",
+      "title": "IMPLEMENTASI 2D MEDIAN FILTER UNTUK PERBAIKAN CITRA DAUN BAWANG MERAH.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Latifah, Binti Umi",
+        "SWANJAYA, DANIEL",
+        "RAMADHANI, RISKY ASWI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11258/",
+      "title": "PENENTUAN PAKET PROMO PADA PESANTREN AL-FUKAAT MENGGUNAKAN METODE APRIORI.",
+      "source": "Undergraduate thesis, Universitas  Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Latifah, Binti Umi",
+        "SWANJAYA, DANIEL",
+        "RAMADHANI, RISKY ASWI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11653/",
+      "title": "PENENTUAN PAKET PROMO PADA PESANTREN AL-FUKAAT MENGGUNAKAN METODE APRIORI.",
+      "source": "Undergraduate thesis, Universitas  Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Lillasari, Juhana",
+        "HELILINTAR, RISA"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/4045/",
+      "title": "IMPLEMENTASI ALGORITMA PREFERENCE SELECTION INDEX (PSI) UNTUK MENENTUKAN PRIORITAS PERBAIKAN JALAN.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Lusni Pratama, Tutus"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/4034/",
+      "title": "PERBANDINGAN PENGENALAN WAJAH DENGAN METODE LOCAL BINARY PATTERN HISTOGRAM DAN EIGENFACE UNTUK PRESENSI.",
+      "source": "SEMINAR NASIONAL INOVASI DAN TEKNOLOGI (SEMNASINOTEK), 5 (1).     pp. 255-269.     ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "Lutfi, Ahmad Fakhruddin",
+        "SWANJAYA, DANIEL",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6518/",
+      "title": "ANALISA KELOMPOK SISWA BERPRESTASI PADA SDN PUNCU 3 MENGGUNAKAN METODE SELF ORGANIZING MAP (SOM).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "MA'ARIF, A'AN TAMIM",
+        "PAMUNGKAS, DANAR PUTRA",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/1998/",
+      "title": "Penerapan Metode Algoritma Genetika Untuk Optimasi Penjadwalan Mata Kuliah.",
+      "source": "Prosiding Semnasinotek 2020.         ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "MOH. RIFANGI, MOH. RIFANGI",
+        "RISA HELILINTAR, RISA HELILINTAR",
+        "RESTY WULANNINGRUM, RESTY WULANNINGRUM"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/4435/",
+      "title": "IMPLEMENTASI METODE MULTI FACTOR EVALUATION PROCESS UNTUK MENGETAHUI KELAYAKAN E-WARONG.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI."
+    },
+    {
+      "authors": [
+        "MUSTAKIM, ABDURRAHMAN SECONDANU",
+        "HELILINTAR, RISA",
+        "ROCHANA, SITI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/12745/",
+      "title": "IMPLEMENTASI METODE ARAS UNTUK MENENTUKAN PEMILIHAN PRODUK UNGGUL PADA UMKM.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Mabruroh, Tsalina Tsaniatul"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16755/",
+      "title": "IMPLEMENTASI METODE CERTAINTY FACTOR PADA DIAGNOSA RISIKO PENYAKIT AKIBAT KONSUMSI MAKANAN.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Maulana, Arfan"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/14494/",
+      "title": "RANCANG BANGUN APLIKASI PENJUALAN REBANA AL-BANJARI MENGGUNAKAN METODE LEAST SQUARE.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Mu'alim, Rizki Saputro"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16644/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN BARANG PERSEDIAAN PADA MINIMARKET BEE MART KECAMATAN PAPAR.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Mudjiono, Stifen Zuro",
+        "Sanjaya, Ardi",
+        "Pamungkas, Danar Putra"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6399/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN PENENTUAN AYAM BROILER BERKUALITAS MENGGUNAKAN METODE WP BERBASIS WEB.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Muhaimin, Mohammad Aqil"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15945/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN REKOMENDASI CAFE POPULER BAGI KALANGAN MAHASISWA UNIVERSITAS NUSANTARA PGRI KEDIRI.",
+      "source": "Undergraduate thesis, UNIVERSITAS NUSANTARA PGRI KEDIRI."
+    },
+    {
+      "authors": [
+        "Mukhlis, Moh. Khoirul",
+        "SANJAYA, ARDI",
+        "WIDODO, DANANG WAHYU"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7078/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN PENILAIAN KINERJA MENGGUNAKAN METODE ADDITIVE RATIO ASSESSMENT (ARAS).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Mukhozin, Mukhozin",
+        "NISWATIN, RATIH KUMALASARI",
+        "WAHYUNIAR, LILIA SINTA"
+      ],
+      "year": "",
+      "link": "https://repository.unpkediri.ac.id/6687/",
+      "title": "SISTEM PENJUALAN OBAT MENGGUNAKAN ALGORITMA  FIFO (Apotik Mujur Sehat).",
+      "source": "SISTEM PENJUALAN OBAT MENGGUNAKAN ALGORITMA  FIFO (Apotik Mujur Sehat).             (Unpublished)"
+    },
+    {
+      "authors": [
+        "Mustofa, Hasan Bisri",
+        "PAMUNGKAS, DANAR PUTRA",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/1263/",
+      "title": "SISTEM PRESENSI MENGGUNAKAN WAJAH DENGAN MENGGUNAKAN METODE HAAR CASCADE CLASSIFIER DI SMK KARYA WATES.",
+      "source": "Prosiding Semnasinotek 2020.         ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "Mustofa, M. Toha",
+        "WIDODO, DANANG WAHYU",
+        "SAPUTRA, MUH. ARIS"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/12189/",
+      "title": "GAME EDUKASI PENGENALAN NAMA  HEWAN DALAM BAHASA INGGRIS SEBAGAI MEDIA PEMBELAJARAN SISWA SEKOLAH DASAR.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Muwafiq, Atho'ul",
+        "PAMUNGKAS, DANAR PUTRA",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/1746/",
+      "title": "IMPLEMENTASI METODE CONVOLUTIONAL NEURAL NETWORK UNTUK KLASIFIKASI MOTIF BATIK.",
+      "source": "Prosiding Semnasinotek 2020.         ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "NANANG, ARIFIN",
+        "RONY HERI, IRAWAN",
+        "INTAN NUR, FARIDA"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7757/",
+      "title": "ALGORITMA K-MEANS UNTUK MEMPREDIKSI STOK BAHAN BAKU PRODUKSI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "NUGROHO, RIZKI WAHYU",
+        "ANDRIYANTO, TEGUH",
+        "INDRIATI, RINI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6522/",
+      "title": "SISTEM INFORMASI IZIN ONLINE BERBASIS WEB MENGGUNAKAN FRAMEWORK CODEIGNITER.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kdiri."
+    },
+    {
+      "authors": [
+        "NURLANA, SUKMA FADLY",
+        "FIRLIANA, RINA",
+        "ANDRIYANTO, TEGUH"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/10924/",
+      "title": "SISTEM INFORMASI MANAJEMEN INFRASTRUKTUR IT.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Nareswara, Wanda",
+        "SANJAYA, ARDI",
+        "CAHYO, WAHYU UTOMO"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/10717/",
+      "title": "Penerapan Metode Simple Additive Weighting Untuk Rekomendasi Pemilihan Pakaian.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Novia, Talitha Ayudhea",
+        "SWANJAYA, DANIEL",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/5937/",
+      "title": "ANALISA CLUSTERING LAPORAN PENGADUAN KEKERASAN PADA ANAK DAN PEREMPUAN DI KOTA KEDIRI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Novia, Talitha Ayudhea",
+        "SWANJAYA, DANIEL",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/5953/",
+      "title": "VICARA (VIOLENCE CASE REPORT APPLICATION).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Nugraha, Reza Setya"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16306/",
+      "title": "PEMBUATAN SISTEM UJIAN ONLINE DAN PENILAIAN SISWA PADA SEKOLAH MENENGAH ATAS QUEEN AL FALAH.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Nugraha, Reza Setya"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16704/",
+      "title": "PEMBUATAN SISTEM UJIAN ONLINE DAN PENILAIAN SISWA PADA SEKOLAH MENENGAH ATAS QUEEN AL FALAH.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Nugroho, Elizer Eki Wigus",
+        "WIDODO, DANANG WAHYU",
+        "SETIAWAN, AHMAD BAGUS"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/1689/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN TANAMAN PANGAN MENGGUNAKAN METODE ANALYTIC HIERARCHY PROCESS DAN FUZZY SUGENO.",
+      "source": "Prosiding Semnasinotek 2020.         ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "Nugroho, Nureka Agung",
+        "SANJAYA, ARDI",
+        "WIDODO, DANANG WAHYU"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6320/",
+      "title": "Pemilihan Bibit Bebek Pedaging Menggunakan Sistem Komputerisasi Menggunakan Metode SAW.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Nugroho, Nureka Agung",
+        "SANJAYA, ARDI",
+        "WIDODO, DANANG WAHYU"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6125/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN BIBIT BEBEK HIBRIDA UNGGUL MENGGUNAKAN METODE SAW BERBASIS WEB.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Nur Farida, Intan",
+        "Kasih, Patmi",
+        "Setiawan, Roni"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2442/",
+      "title": "Pemodelan E-Voting dalam Pemilihan Ketua Pemuda.",
+      "source": "In: Prosiding  Seminar Nasional Inovasi Teknologi 2018 Fakultas teknik, Universitas Nusantara PGRI Kediri, Februari 2018, UN PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Nur Safitri, Dwi Ayu",
+        "HELILINTAR, RISA",
+        "WAHYUNIAR, LILIA SINTA"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/4024/",
+      "title": "SISTEM REKOMENDASI SKINCARE MENGGUNAKAN METODE CONTENT-BASED FILTERING DAN ALGORITMA APRIORI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Nurcahyo, Khoirudin Eko",
+        "Sucipto, Sucipto",
+        "Nugroho, Arie"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2707/",
+      "title": "Mapping Student Data Using Data Warehouse for Promotion at Vocational High School of Z.",
+      "source": "RESEARCH: Journal of Computer, Information System &amp; Technology Management, 3 (2).     pp. 55-66.     ISSN 2615-7357"
+    },
+    {
+      "authors": [
+        "Nurdiansyah, Azis",
+        "ANDRIYANTO, TEGUH",
+        "INDRIATI, RINI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6073/",
+      "title": "HUMIDITY AND TEMPERATURE  MONITORING SYSTEM  PENYIMPANAN ALAT FOTOGRAFI BERBASIS INTERNET OF THINGS.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "PAMUNGKAS, DANAR PUTRA"
+      ],
+      "year": "2019",
+      "link": "https://repository.unpkediri.ac.id/2377/",
+      "title": "Ekstraksi Citra menggunakan Metode GLCM dan KNN untuk Identifikasi Jenis Anggrek (Orchidaceae).",
+      "source": "Jurnal INNOVATICS : Innovation in Research of Informatics, 1 (2).     pp. 51-56.     ISSN 2656-8993 (e)"
+    },
+    {
+      "authors": [
+        "PAMUNGKAS, DANAR PUTRA"
+      ],
+      "year": "2019",
+      "link": "https://repository.unpkediri.ac.id/2376/",
+      "title": "Rancang Bangun Sistem Verifikasi Data Dokumen.",
+      "source": "Jurnal INOVATE : Jurnal Ilmiah Inovasi Teknologi Informasi, 3 (2).     pp. 10-17.     ISSN 2548-7795 (e)"
+    },
+    {
+      "authors": [
+        "PAMUNGKAS, DANAR PUTRA",
+        "Hariri, Fajar Rohman"
+      ],
+      "year": "2017",
+      "link": "https://repository.unpkediri.ac.id/2379/",
+      "title": "Implementasi Metode PCA dan City Block Distance untuk Presensi Mahasiswa Berbasis Wajah.",
+      "source": "In: Seminar Nasional dan Call Paper \"Keamanan Informasi Untuk Ketahanan Informasi Kota Cerdas\", 23 November 2017, Kampus Sekolah Tinggi Informatika &amp; Komputer Indonesia (STIKI), Malang."
+    },
+    {
+      "authors": [
+        "PAMUNGKAS, DANAR PUTRA",
+        "SETIAWAN, AHMAD BAGUS"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2362/",
+      "title": "Implementasi Ekstrasi Fitur Dan K-Nearest Neightbor Untuk Identifikasi Wajah Personal.",
+      "source": "Jurnal Joutica : Journal of Informatic Unisla, 3 (3).     pp. 187-193.     ISSN 2503-071X(p); 2621-511X(e)"
+    },
+    {
+      "authors": [
+        "PAMUNGKAS, DANAR PUTRA",
+        "SETIAWAN, AHMAD BAGUS",
+        "Ramadhani, Risky Aswi"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2380/",
+      "title": "Jaringan Komputer Dasar.",
+      "source": "CV. Kasih Inovasi Teknologi, Kediri.     ISBN 978-602-51918-0-0"
+    },
+    {
+      "authors": [
+        "PUTRA, ILHAM PERMANA",
+        "NISWATIN, RATIH KUMALASARI",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6745/",
+      "title": "SISTEM PEMILIHAN PEMAIN FUTSAL MENGGUNAKAN METODE AHP DENGAN PEMBOBOTAN ROC.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Permatasari, Ajeng Novica",
+        "SUCIPTO, SUCIPTO",
+        "ANITA SARI, WARDANI"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/13436/",
+      "title": "ANALISA KAPABILITAS PENGELOLAAN SIMPEG MENGGUNAKAN FRAMEWORK COBIT 5 DOMAIN DSS01 DAN DSS03.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Perwira, Mohammad Askar Dipa",
+        "DUSEA WIDYA DARA, MADE AYU",
+        "SAHERTIAN, JULIAN"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/12640/",
+      "title": "MOBILE E-LEARNING UNTUK PEMBELAJARAN JARAK JAUH MATA PELAJARAN BAHASA INGGRIS TINGKAT SEKOLAH DASAR KELAS 5.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Prakosa, Ade Novit Dedey",
+        "PAMUNGKAS, DANAR PUTRA",
+        "SETIAWAN, AHMAD BAGUS"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/1231/",
+      "title": "PENGENALAN POLA TULISAN TANGAN AKSARA JAWA MENGGUNAKAN METODE FUZZY FEATURE EXTRACTION.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Prasetyo, Nanang Budi"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15224/",
+      "title": "IOT SISTEM MONITORING DAN KONTROLING KELEMBABAN TANAH PADA TANAMAN.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Pratama, Nando Adi Tya",
+        "PAMUNGKAS, DANAR PUTRA",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2395/",
+      "title": "STRATEGI PROMOSI PADA ONLINE SHOP TATA OS MELALUI IMPLEMENTASI ALGORITMA APRIORI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Prawiratama, Defa Hangga",
+        "HELILINTAR, RISA",
+        "KASIH, PATMI"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/13366/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN PENENTUAN KELAYAKAN PEMBERIAN PINJAMAN MENGGUNAKAN METODE SMART (STUDI KASUS: BPRS RAHMA SYARIAH).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Prayogo, Tansen Aji",
+        "SETIAWAN, AHMAD BAGUS",
+        "WIDODO, DANANG WAHYU"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/12000/",
+      "title": "PENERAPAN METODE RULE BASED PADA SISTEM PEMESANAN DAN PEMBAYARAN TIKET BUS.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Prayogo, Yogi Suryo",
+        "RAMADHANI, RISKY ASWI",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/12582/",
+      "title": "SISTEM KOREKSI SOAL ESSAI MENGGUNAKAN METODE TF-IDF DAN COSINE SIMILARITY.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Putra, Rahardian Satria Tri",
+        "WIDODO, DANANG WAHYU",
+        "WAHYUNIAR, LILIA SINTA"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11389/",
+      "title": "PERANCANGAN GAME EDUKASI PETUALANGAN IPA DENGAN MATERI SISTEM GERAK PADA HEWAN KELAS V SD.",
+      "source": "Undergraduate thesis, Univesitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Putri, Amelia Tanaya",
+        "SWANJAYA, DANIEL",
+        "FARIDA, INTAN NUR"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11528/",
+      "title": "ESTIMASI WAKTU PENGADAAN BIBIT ALPOKAT DI PESANTREN AL-FUKAAT MENGGUNAKAN INTEGRASI METODE K-MEANS CLUSTERING DAN BACKPROPAGATION.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Putri, Putri Ananda",
+        "HELILINTAR, RISA",
+        "FARIDA, INTAN NUR"
+      ],
+      "year": "2013",
+      "link": "https://repository.unpkediri.ac.id/11323/",
+      "title": "OPTIMASI PENJADWALAN MATA PELAJARAN DI TINGKAT SMK DENGAN METODE TABU SEARCH.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Qibtiyah, Siti Mariyatul",
+        "NUGROHO, ARIE",
+        "FIRLIANA, RINA"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7769/",
+      "title": "DATA WAREHOUSE PENGOLAHAN DATA PEMINJAMAN BUKU (STUDY KASUS TBM JAMBU KECAMATAN KAYEN KIDUL).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "ROHMAN, AGUS NUR",
+        "PAMUNGKAS, DANAR PUTRA",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2180/",
+      "title": "IDENTIFIKASI KELAINAN MATA KATARAK PADA CITRA DIGITAL MENGGUNAKAN METODE DEEP LEARNING.",
+      "source": "SEMNAS I-V.         ISSN 2549-7952     (Unpublished)"
+    },
+    {
+      "authors": [
+        "Ramadhan, Dias Nur"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/14115/",
+      "title": "SISTEM REKOMENDASI LAPTOP MENGGUNAKAN KOMBINASI METODE AHP DAN MOORA.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Rezaldy, Donni",
+        "NISWATIN, RATIH KUMALASARI",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7051/",
+      "title": "Simulasi dan Perancangan Sistem Penjualan Toko Buku Online.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Rianti, Rika",
+        "Kasih, Patmi"
+      ],
+      "year": "2019",
+      "link": "https://repository.unpkediri.ac.id/2443/",
+      "title": "Pemodelan Data Mining Algoritma Apriori Dalam Sistem Analisa Pola Keterjangkitan Penyakit di Puskesmas.",
+      "source": "In: Prosiding  Seminar Nasional Inovasi Teknologi 2019 Fakultas teknik, Universitas Nusantara PGRI Kediri, Februari 2019, UN PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Ricky Laschka Zidane Santoso, Ricky",
+        "RISA HELILINTAR, RISA HELILINTAR",
+        "PATMI KASIH, PATMI KASIH"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/13456/",
+      "title": "IMPLEMENTASI METODE NAÏVE BAYES UNTUK PENENTUAN RESTOCK BARANG.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Riyanto, Nenok Atmi",
+        "SUCIPTO, SUCIPTO",
+        "SARI WARDANI, ANITA"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11077/",
+      "title": "EVALUASI KUALITAS WEBSITE SEKOLAH TERHADAP KEPUASAN PENGGUNA.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Rizal, Mochammad Khoirul"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/13631/",
+      "title": "PENGEMBANGAN UI/UX WEBSITE STUDIO FOTOGRAFI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Rizal Dwi Saputro, Rizal Dwi Saputro",
+        "Patmi Kasih, Patmi Kasih",
+        "Siti Rochana, Siti Richana"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/5272/",
+      "title": "IMPLEMENTASI PATHFINDING A-STAR DAN LINE OF SIGHT PADA GAME EDUKASI PEMBELAJARAN ONLINE BERBASIS ANDROID UNTUK MENGURANGI KEJENUHAN BELAJAR.",
+      "source": "Undergraduate thesis, Universita Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "SANJAYA, ARDI",
+        "PAMUNGKAS, DANAR PUTRA",
+        "Sholih, Faris Ashofi"
+      ],
+      "year": "2017",
+      "link": "https://repository.unpkediri.ac.id/2378/",
+      "title": "Sistem Informmasi Laboratorium Komputer Di Universitas Nusantara PGRI Kediri.",
+      "source": "In: Seminar Nasional dan Call Paper \"Keamanan Informasi Untuk Ketahanan Informasi Kota Cerdas\", 23 November 2017, Kampus Sekolah Tinggi Informatika &amp; Komputer Indonesia (STIKI), Malang."
+    },
+    {
+      "authors": [
+        "SETYAWAN, ARIS MUHHAMAD",
+        "NISWATIN, RATIH KUMALASARI",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6915/",
+      "title": "SISTEM PENDUKUNG PEMILIHAN SEPATU FUTSAL MENGGUNAKAN METODE AHP DENGAN PEMBOBOTAN ROC.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "SHOFIA, NISKA"
+      ],
+      "year": "2019",
+      "link": "https://repository.unpkediri.ac.id/2415/",
+      "title": "Penerapan Logika Fuzzy untuk Analisa Kuualitas Pelayanan (Simulasi Menggunakan MATLAB ToolBox Fuzzy).",
+      "source": "Project Report.    CV. KASIH INOVASI TEKNOLOGI, KEDIRI."
+    },
+    {
+      "authors": [
+        "SHOFIA, NISKA",
+        "MAHDIYAH, UMI"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2426/",
+      "title": "Meta Analisis-Pengukuran Kualitas Pelayanan Metode Servqual.",
+      "source": "In: Seminar Nasional Inovasi Teknologi 2020, 25 Juli 2020, Kediri."
+    },
+    {
+      "authors": [
+        "SIREGAR, MUHAMMAD FARIZ HARDIANSYAH"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/17429/",
+      "title": "REKOMENDASI PEMILIHAN SUPPLIER PADA SWALAYAN LAYLIA MENGGUNAKAN ALGORITMA NAIVE BAYES DAN CONFUSION MATRIX.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Safitri, Karinda Ayu",
+        "WULANNINGRUM, RESTY",
+        "PAMUNGKAS, DANAR PUTRA"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2306/",
+      "title": "IDENTIFIKASI PENGENALAN POLA TULISAN TANGAN SESEORANG MENGGUNAKAN METODE SUPPORT VECTOR MACHINE (SVM).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Safitri, Luluk Indah",
+        "SAHERTIAN, JULIAN",
+        "WIDODO, DANANG WAHYU"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11579/",
+      "title": "IMPLEMENTASI SIMULATOR DAN PATH PLANNING PADA SISTEM KONTROL BASE STATION ROBOT SEPAK BOLA BERODA.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Sakti, Andrean Ferdyana Vabian Eka",
+        "WULANNINGRUM, RESTY",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6462/",
+      "title": "IMPLEMENTASI METODE LOGIKA FUZZY SEBAGAI PENDETEKSI KEBAKARAN MENGGUNAKAN KLASIFIKASI GESTUR TANGAN.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Sakti, Andrean Ferdyana Vabian Eka Sakti",
+        "WULANNINGRUM, RESTY",
+        "SANJAYA, ARDI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6524/",
+      "title": "Penggunaan Logika Fuzzy Sebagai Pendeteksi Kebakaran dengan Citra Gestur Tangan.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Sanjaya, Ardi",
+        "Andriyanto, Teguh"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2412/",
+      "title": "Dasar Pemrograman Web Untuk Pemula.",
+      "source": "Cetakan Pertama, Juni 2018      .        CV. Kasih Inovasi Teknologi, Kediri.     ISBN 978-602-51918-1-7"
+    },
+    {
+      "authors": [
+        "Saputro, Abimanyu Agung",
+        "HELILINTAR, RISA"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2178/",
+      "title": "PREDIKSI PRESTASI NILAI AKADEMIK MAHASISWA MENGGUNAKAN METODE K-MEANS CLUSTERING.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Setiawan, Akbar Fastio Hari",
+        "SANJAYA, ARDI",
+        "UTOMO, WAHYU CAHYO"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11482/",
+      "title": "PREDIKSI KEBUTUHAN DAGING AYAM BROILER MENGGUNAKAN METODE SINGLE MOVING AVERAGE.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Setiawan, Bayu Mahendra",
+        "SETIAWAN, AHMAD BAGUS",
+        "FARIDA, INTAN NUR"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/12088/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN GURU BERPRESTASI DENGAN METODE AHP DI SMK MUHAMMADIYAH 3 NGANJUK.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Setiawan, Dian Ade",
+        "HELILINTAR, RISA",
+        "WAHYUNIAR, LILIA SINTA"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/4025/",
+      "title": "PENERAPAN METODE NAIVE BAYES UNTUK KLASIFIKASI PENENTUAN PENERIMA BANTUAN PKH.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Setiawan, Fery",
+        "SANJAYA, ARDI",
+        "SAHERTIAN, JULIAN"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2239/",
+      "title": "Sistem Penghitung Pelanggan Dengan Metode Viola-Jones.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Setiyawan, Gadang Putro Bagus",
+        "HELILINTAR, RISA",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/5255/",
+      "title": "Sistem Informasi Survey Pengukuran Tingkat Kesadaran Keamanan Informasi Menggunakan Metode Multiple Criteria Decision Analisys (MCDA).",
+      "source": "Sistem Informasi Survey Pengukuran Tingkat Kesadaran Keamanan Informasi Menggunakan Metode Multiple Criteria Decision Analisys (MCDA)."
+    },
+    {
+      "authors": [
+        "Sihabudin, Erik",
+        "NISWATIN, RATIH KUMALASARI",
+        "WAHYUNIAR, LILIA SINTA"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7991/",
+      "title": "PENERJEMAH BAHASA ISYARAT MENGGUNAKAN TENSORFLOW.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Soviana, Aura Anisa",
+        "KASIH, PATMI",
+        "ROCHANA, SITI"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11589/",
+      "title": "IMPLEMENTASI  METODE CUSTOMER SATISFACTION INDEX (CSI) DALAM MENENTUKAN KEPUASAN PELANGGAN PENJUALAN MOBIL BEKAS.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Suara, Andy",
+        "SANJAYA, ARDI",
+        "PAMUNGKAS, DANAR PUTRA"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6133/",
+      "title": "SISTEM INFORMASI PERAMALAN PRODUKSI SABUN MENGGUNAKAN METODE DOUBLE MOVING AVERAGE.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Sucipto, Sucipto"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2705/",
+      "title": "Sales Transaction Result Analysis for Increase Prediction of Income.",
+      "source": "Fountain of Informatics Journal, 3 (2).     pp. 31-35.     ISSN 2548-5113"
+    },
+    {
+      "authors": [
+        "Sucipto, Sucipto",
+        "Andriyanto, Teguh"
+      ],
+      "year": "2019",
+      "link": "https://repository.unpkediri.ac.id/8/",
+      "title": "Transactional database design information system web-based tracer study integrated telegram bot.",
+      "source": "In: The 1st International Conference on Engineering and Applied Science (ICEAS) 2019, Madiun."
+    },
+    {
+      "authors": [
+        "Sucipto, Sucipto",
+        "Dewi, Ervin Kusuma",
+        "Resti, Nalsa Cintya",
+        "Santi, Indyah Hartami"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2699/",
+      "title": "Improving The Performance of Alumni Achievement Assessment by Integrating Website-Based Tracer Study Information Systems and Telegram.",
+      "source": "TEKNIK, 41 (1).     pp. 72-77.     ISSN 2460-9919"
+    },
+    {
+      "authors": [
+        "Sucipto, Sucipto",
+        "Hariawan, Fitra Bagoes",
+        "Nurita, Vivin",
+        "Tammam, Aditya Gusti"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2698/",
+      "title": "Functional Database in Gateway-based Price Service System.",
+      "source": "Buletin Pos dan Telekomunikasi, 16 (2).     pp. 101-110.     ISSN 2443-1524"
+    },
+    {
+      "authors": [
+        "Sucipto, Sucipto",
+        "Indriati, Rini",
+        "Hariawan, Fitra Bagoes"
+      ],
+      "year": "2017",
+      "link": "https://repository.unpkediri.ac.id/2709/",
+      "title": "Desain Database untuk Optimalisasi Sistem Prediksi Transaksi Penjualan.",
+      "source": "JIPI (Jurnal Ilmiah Penelitian dan Pembelajaran Informatika), 2 (2).     pp. 88-93.     ISSN 2540-8984"
+    },
+    {
+      "authors": [
+        "Sucipto, Sucipto",
+        "Karaman, Jamilah"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2700/",
+      "title": "Integration of Legalization Information System Web-Based using Shipping API and Telegram API.",
+      "source": "JUITA: Jurnal Informatika, 8 (2).     pp. 131-139.     ISSN 2579-8901"
+    },
+    {
+      "authors": [
+        "Sucipto, Sucipto",
+        "Sucipto, Sucipto",
+        "Nugroho, Arie"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2708/",
+      "title": "Analisis Data Warehouse Pada Perpustakaan Man X Untuk Efisiensi Manajemen.",
+      "source": "Fountain of Informatics Journal, 5 (3).     pp. 17-24.     ISSN 2548-5113"
+    },
+    {
+      "authors": [
+        "Sudarsono Adi, Muhammad Mukhlish Nurrahman"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15206/",
+      "title": "SIMULASI PENENTUAN DURASI LAMPU HIJAU PADA DETEKSI KENDARAAN MENGGUNAKAN YOLOV8.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Surya, Wahyu Baskara",
+        "NISWATIN, RATIH KUMALASARI",
+        "FARIDA, INTAN NUR"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2190/",
+      "title": "IMPLEMENTASI METODE NAIVE BAIYES UNTUK MENENTUKAN JENIS KAYU JATI DAN HASIL OLAHANNYA DALAM MEUBEL.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Syafroni, Mochamad",
+        "SETIAWAN, AHMAD BAGUS",
+        "HELILINTAR, RISA"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2372/",
+      "title": "APLIKASI PENGOLAHAN DATA E- ARSIP RUMAH SAKIT BHAYANGKARA KEDIRI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Syifa, Habibi Aulia Nur",
+        "FIRLIANA, RINA",
+        "NUGROHO, ARIE"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/9191/",
+      "title": "PERBANDINGAN ALGORITMA NAIVE BAYES DAN K-NEAREST NEIGHBORS UNTUK ANALISIS SENTIMEN COVID-19 DI TWITTER.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "suara, andy",
+        "SANJAYA, ARDI",
+        "PAMUNGKAS, DANAR PUTRA"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6263/",
+      "title": "Implementasi Metode Double Moving Average Untuk Prediksi Produksi Sabun.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Tammam, Aditya Gusti",
+        "Sucipto, Sucipto",
+        "Indriati, Rini"
+      ],
+      "year": "2018",
+      "link": "https://repository.unpkediri.ac.id/2710/",
+      "title": "Hoax Detection at Social Media With Text Mining Clarification SystemBased.",
+      "source": "JIPI (Jurnal Ilmiah Penelitian dan Pembelajaran Informatika), 3 (2).     pp. 94-100.     ISSN 2540-8984"
+    },
+    {
+      "authors": [
+        "Taufik rizki kurniawan, Rizki",
+        "DANAR PUTRA PAMUNGKAS, DANAR",
+        "RESTY WULANNINGRUM, RESTY"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/12633/",
+      "title": "SEGMENTASI CITRA DAUN BAWANG MERAH MENGUNAKAN METODE DETEKSI TEPI CANNY DAN THERSHOLDING OTSU.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Taufiqurrahman, Taufiqurrahman",
+        "NISWATIN, RATIH KUMALASARI",
+        "SETIAWAN, AHMAD BAGUS"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6864/",
+      "title": "SISTEM INFORMASI BAN MOTOR BERBASIS WEB.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Taufiqurrahman, Taufiqurrahman",
+        "NISWATIN, RATIH KUMALASARI",
+        "SETIAWAN, AHMAD BAGUS"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7063/",
+      "title": "Simulasi dan Perancangan Sistem Informasi Ban Motor.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Toar, Gery Hendri Veen",
+        "MUZAKI, MUHAMMAD NAJIBULLOH",
+        "WARDANI, ANITA SARI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6810/",
+      "title": "SISTEM INFORMASI PERSEDIAAN BARANG BERBASIS WEB STUDI KASUS CV. JAYA MANDIRI SAMPIT.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Toybah, Moch Anas"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/14859/",
+      "title": "PENERAPAN ALGORITMA CONVOLUTIONAL NEURAL NETWORK PADA IDENTIFIKASI FOTO HERO GAME MOBILE LEGENDS.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Tri Laksono, Danang",
+        "SWANJAYA, DANIEL",
+        "RESTY WULANNINGRUM, RESTY WULANNINGRUM"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7052/",
+      "title": "PEMBUATAN GAME RPG “HEROES OF HARMONY” MENGGUNAKAN ENGINE RPG MAKER MV.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Tri Puji Saputra, Alfian"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/13751/",
+      "title": "SISTEM INFORMASI PENYEWAAN ALAT PESTA BERBASIS WEBSITE.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Trio Mawardi, David"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16416/",
+      "title": "RANCANG BANGUN PENGADUK PADA MESIN PENCAMPUR PAKAN AYAM KAPASITAS 50KG/2MENIT.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Trisdianto, Deni Wahyu"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/16061/",
+      "title": "PENGEMBANGAN APLIKASI PENGUJIAN KECEPATAN AKSES JARINGAN INTERNET SERVICE PROVIDER PADA PELANGGAN DI KOTA KEDIRI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Wabula, Diva Febrian",
+        "WIDODO, DANANG WAHYU",
+        "KASIH, PATMI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7167/",
+      "title": "IMPLEMENTASI TEKNOLOGI AUGMENTED REALITY PADA MEDIA EDUKASI COVID-19 UNTUK ANAK.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Wabula, Diva Febrian",
+        "WIDODO, DANANG WAHYU",
+        "KASIH, PATMI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7522/",
+      "title": "IMPLEMENTATION OF AUGMENTED REALITY TECHNOLOGY ON COVID-19 EDUCATIONAL MEDIA FOR CHILDREN.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Wahyudi, Rendy"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15992/",
+      "title": "PENENTUAN RUTE TERPENDEK PADA PENGIRIMAN PAKET MENGGUNAKAN ALGORITMA DYNAMIC PROGRAMMING.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Wahyudi, Satria",
+        "IRAWAN, RONY HERI",
+        "ROCHANA, SITI"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/4026/",
+      "title": "FUZZY K-MEANS DALAM PREDIKSI BANTUAN SEKOLAH SDN JABANG 1.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Wahyuningtiyas, Rizky Dwy"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15970/",
+      "title": "ANALISIS PENERAPAN SISTEM INFORMASI AKUNTANSI ATAS PENERIMAAN, PENGEMBALIAN DAN PELELANGAN BARANG JAMINAN PADA PT. PEGADAIAN (PERSERO) CABANG TRENGGALEK.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Wanda Mardiana, Anisa",
+        "KASIH, PATMI",
+        "KUMALASARI NISWATIN, RATIH"
+      ],
+      "year": "2021",
+      "link": "https://repository.unpkediri.ac.id/4032/",
+      "title": "PENGENALAN BUDAYA DAERAH DI PULAU JAWA DENGAN GAME EDUKASI \"PETUALANGAN SI SAPE\".",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Wibowo, RIdho Kuncoro Adji"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/14566/",
+      "title": "PENGENALAN ABJAD SISTEM ISYARAT BAHASA INDONESIA MENGGUNAKAN YOLOV8.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Widha Pratama, Septian",
+        "Kasih, Patmi"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2446/",
+      "title": "Aplikasi Bantu Pengenalan Binatang untuk Anak Usia Dini dengan Augmented Reality Berbasis Android.",
+      "source": "In: Prosiding  Seminar Nasional Inovasi Teknologi, Fakultas Teknik, Universitas Nusantara PGRI Kediri, 25 Juli 2020, UN PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Widodo, Danang Wahyu",
+        "PAMUNGKAS, DANAR PUTRA",
+        "SWANJAYA, DANIEL"
+      ],
+      "year": "2019",
+      "link": "https://repository.unpkediri.ac.id/2373/",
+      "title": "Sistem Pengajaran E-Learning Di Program Studi Teknik Informatika Universitas Nusantara PGRI Kediri.",
+      "source": "Generation Journal, 3 (1).     pp. 10-17.     ISSN 2580 – 4952"
+    },
+    {
+      "authors": [
+        "Wijaya, Dedy Surya",
+        "SANJAYA, ARDI",
+        "UTOMO, WAHYU CAHYO"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11358/",
+      "title": "ANALISIS SENTIMEN MASYARAKAT TENTANG NAIKNYA HARGA BBM DENGAN METODE FASTTEXT DAN NAÏVE BAYES.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Wijaya, Rizky Permana",
+        "SUCIPTO, SUCIPTO",
+        "FIRLIANA, RINA"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/13442/",
+      "title": "ANALISIS KAPABILITAS SISTEM INFORMASI PEGAWAI ONLINE (SIPO) BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA (BKPSDM).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Wijayanto, Muhammad Farid"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15072/",
+      "title": "PENERAPAN MOBILENET ARCHITECTURE PADA IDENTIFIKASI FOTO CITRA MAKANAN INDONESIA.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Wisnugraha, Wahyu Surya",
+        "FARIDA, INTAN NUR",
+        "WIDYADARA, MADE AYU DUSEA"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11529/",
+      "title": "DIAGNOSA TINGKAT DEPRESI MAHASISWA AKHIR DI KOTA KEDIRI TERHADAP PENELITIAN TUGAS AKHIR MENGGUNAKAN ALGORITMA NAIVE BAYES.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "YULIANTO, HARIS",
+        "MAHDIYAH, UMI",
+        "HELILINTAR, RISA"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6537/",
+      "title": "Laboratorium Komputer Berbasis Diskless Client Di MTs Sunan Ampel Plosoklaten.",
+      "source": "Laboratorium Komputer Berbasis Diskless Client Di MTs Sunan  Ampel Plosoklaten, 6 (1).     pp. 314-319.     ISSN 2580-3336"
+    },
+    {
+      "authors": [
+        "Yahya, Ilmi Akbar Dien"
+      ],
+      "year": "2025",
+      "link": "https://repository.unpkediri.ac.id/17451/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN SELEKSI CALON ANGGOTA BARU DEWAN KERJA CABANG DENGAN METODE PROFILE MATCHING (STUDI KASUS GERAKAN PRAMUKA KWARTIR CABANG NGANJUK).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Yaspin, Yayak Nuri",
+        "WIDODO, DANANG WAHYU",
+        "SETIAWAN, AHMAD BAGUS"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/2181/",
+      "title": "KLASIFIKASI KUALITAS BUNGA CENGKEH UNTUK MENINGKATKAN MUTU DENGAN PEMANFAATAN CIRI GRAY LEVEL CO-OCCURENCE MATRIX (GLCM).",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Yoggyanto, Ary"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/15602/",
+      "title": "PENERAPAN METODE FORWARD CHAINING UNTUK MENDIAGNOSA PENYAKIT JAMUR TIRAM.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Yulianto, Andik",
+        "WIDODO, DANANG WAHYU",
+        "WAHYUNIAR, LILIA SINTA"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11279/",
+      "title": "RANCANG BANGUN GAME EDUKASI PENGENALAN SEJARAH KEMERDEKAAN INDONESIA SEBAGAI MEDIA PEMBELAJARAN.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Yuristiawan, Hendra Uji"
+      ],
+      "year": "2025",
+      "link": "https://repository.unpkediri.ac.id/17887/",
+      "title": "PENERAPAN METODE DOUBLE EXPONENTIAL SMOOTHING PADA PERAMALAN KEBUTUHAN STOK BLANGKO KTP-EL DI DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL KABUPATEN KEDIRI.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Yusinda, Tangkas Setya",
+        "FARIDA, INTAN NUR",
+        "MAHDIYAH, UMI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6108/",
+      "title": "IMPLEMENTASI METODE RANK ORDER CENTROID (ROC) DAN METODE MOORA UNTUK MENENTUKAN REKOMENDASI PERBAIKAN JALAN.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Yusinda, Tangkas Setya",
+        "FARIDA, INTAN NUR",
+        "MAHDIYAH, UMI"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/8002/",
+      "title": "IMPLEMENTASI METODE RANK ORDER CENTROID (ROC) DAN METODE MOORA UNTUK MENENTUKAN REKOMENDASI PERBAIKAN JALAN.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Yusuf, Ibram Farhani",
+        "PAMUNGKAS, DANAR PUTRA",
+        "SWANJAYA, DANIEL"
+      ],
+      "year": "2023",
+      "link": "https://repository.unpkediri.ac.id/11304/",
+      "title": "SISTEM INFORMASI SURVEY INDEKS KEPUASAN PELANGGAN PADA WISH HAIR STUDIO.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Zainuri, Mohamad",
+        "PAMUNGKAS, DANAR PUTRA",
+        "WULANNINGRUM, RESTY"
+      ],
+      "year": "2020",
+      "link": "https://repository.unpkediri.ac.id/1940/",
+      "title": "IMPLEMENTASI METODE CONVOLUTIONAL NEURAL NETWORK (CNN) UNTUK KLASIFIKASI JENIS BUNGA ANGGREK.",
+      "source": "Prosiding Semnasinotek 2020.         ISSN 2549-7952     (Unpublished)"
+    },
+    {
+      "authors": [
+        "Zakaria, Reyno Yusuf",
+        "SANJAYA, ARDI",
+        "WIDODO, DANANG WAHYU"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6378/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN PENERIMA BANTUAN BEDAH RUMAH MENGGUNAKAN METODE AHP DI DESA SUKOHARJO.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Zakaria, Reyno Yusuf",
+        "SANJAYA, ARDI",
+        "Widodo, Danang Wahyu"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/6352/",
+      "title": "SISTEM PENDUKUNG KEPUTUSAN PENERIMA BANTUAN BEDAH RUMAH MENGGUNAKAN METODE AHP DI DESA SUKOHARJO.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Zakaria, Reza Naim"
+      ],
+      "year": "2024",
+      "link": "https://repository.unpkediri.ac.id/14956/",
+      "title": "SISTEM PRESENSI WAJAH MAHASISWA MENGGUNAKAN YOLOV8.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Zamzami, Khanafi Suduri",
+        "WIDYADARA, MADE AYU DUSEA",
+        "SETIAWAN, AHMAD BAGUS"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/5374/",
+      "title": "APLIKASI PREDIKSI HARGA ETHEREUM MENGGUNAKAN METODE ARIMA.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    },
+    {
+      "authors": [
+        "Zamzami, Khanafi Suduri",
+        "WIDYADARA, MADE AYU DUSEA",
+        "SETIAWAN, AHMAD BAGUS"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7069/",
+      "title": "APLIKASI PREDIKSI HARGA ETHEREUM MENGGUNAKAN METODE ARIMA.",
+      "source": "Optimalisasi Kolaborasi Teknologi Informasi dan Teknik Manufaktur Dalam Menjawab Tantangan Era Society 5.0, 6.         ISSN 2549-7952"
+    },
+    {
+      "authors": [
+        "Zarkasi, Agdeka Cory",
+        "Wardani, Anita Sari",
+        "Sucipto, Sucipto"
+      ],
+      "year": "2022",
+      "link": "https://repository.unpkediri.ac.id/7234/",
+      "title": "ANALISA USER EXPERIENCE TERHADAP FITUR DI APLIKASI ZENIUS MENGGUNAKAN HEART FRAMEWORK.",
+      "source": "Undergraduate thesis, Universitas Nusantara PGRI Kediri."
+    }
+  ]
+}
