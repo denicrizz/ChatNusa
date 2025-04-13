@@ -56,7 +56,6 @@ def search_tf_only(query):
         output.append(f"📌 {row['title']}\n🔗 {row['link']}")
     return "\n\n".join(output) if output else "Maaf, tidak ditemukan judul yang relevan."
 
-# --- Telegram Webhook Endpoint ---
 @app.route("/", methods=["POST"])
 def index():
     data = request.get_json()
@@ -67,6 +66,6 @@ def index():
     requests.post(URL, json={"chat_id": chat_id, "text": response_text})
     return "ok"
 
-# --- Run Flask ---
+
 if __name__ == "__main__":
     app.run(debug=True)
