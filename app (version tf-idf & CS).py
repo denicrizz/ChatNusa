@@ -6,16 +6,18 @@ from sklearn.metrics.pairwise import cosine_similarity
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
-# --- Inisialisasi PySastrawi ---
+
 stemmer = StemmerFactory().create_stemmer()
 stopword_remover = StopWordRemoverFactory().create_stop_word_remover()
 
 def custom_stemmer(text):
-    # Daftar kata khusus yang ingin kamu perbaiki manual
+
     kata_khusus = {
         "pengelasan": "ngelas",
-        "pembelajaran": "ajar"
+        "pembelajaran": "ajar",
+        "berbasis": "basis"
     }
+
 
     tokens = text.split()
     hasil = []
