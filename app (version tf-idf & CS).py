@@ -71,23 +71,24 @@ def search_repository(query, top_n=5):
     query_vec = vectorizer.transform([query_processed])
     similarities = cosine_similarity(query_vec, tfidf_matrix).flatten()
 
-    top_indices = similarities.argsort()[::-1]  # Ambil dari tertinggi ke rendah
-    filtered_results = []
+    top_indices = similarities.argsort()[::-1]
+    results = df.iloc[top_indices]
 
-    for i in top_indices:
-        title = df.iloc[i]['title']
-        preprocessed_title = df.iloc[i]['preprocessed']
+    # Hilangkan duplikat berdasarkan 'title'
+    results = results.drop_duplicates(subset='title')
 
-        if query_processed in preprocessed_title:
-            filtered_results.append({
-                "title": title,
-                "link": df.iloc[i]["link"]
-            })
+    # Ambil hanya top_n hasil
+    results = results.head(top_n)
 
-        if len(filtered_results) >= top_n:
-            break
+    output = []
+    for _, row in results.iterrows():
+        output.append({
+            "title": row["title"],
+            "link": row["link"]
+        })
 
-    return filtered_results
+    return output
+
 
 
 # --- Jalankan Program ---
