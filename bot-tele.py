@@ -8,40 +8,43 @@ import nltk
 from nltk.corpus import stopwords
 import string
 
-# Download stopwords saat pertama kali
+# --- Inisialisasi NLTK ---
 nltk.download('stopwords')
 
 app = Flask(__name__)
 
+# Telegram Bot Token
 TOKEN = "7352232743:AAEuC0nMxQWEpMoglvGMob4Vl5TaUjmIJRg"
 URL = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
 
-# --- Inisialisasi ---
+# --- Inisialisasi Sastrawi dan Stopwords ---
 stemmer = StemmerFactory().create_stemmer()
-stop_words = set(stopwords.words('indonesian'))
+stop_words = set(stopwords.words('indonesian'))  # tanpa custom tambahan
 
 # --- Fungsi Preprocessing ---
 def preprocess(text):
     text = text.lower()
     tokens = text.split()
-    tokens = [t.strip(string.punctuation) for t in tokens if t.isalpha()]
-    tokens = [t for t in tokens if t not in stop_words]
+    tokens = [t.strip(string.punctuation) for t in tokens if t]
+    tokens = [t for t in tokens if t not in stop_words and len(t) > 1]
     cleaned = ' '.join(tokens)
     stemmed = stemmer.stem(cleaned)
     return stemmed
 
 # --- Load repository_data1.json ---
 with open("repository_data1.json", "r", encoding="utf-8") as f:
-    repo = json.load(f)['data']
-df_repo = pd.DataFrame(repo)
+    raw_repo = json.load(f)
+    repo_data = []
+    for block in raw_repo:
+        if "data" in block:
+            repo_data.extend(block["data"])
+df_repo = pd.DataFrame(repo_data)
 df_repo['preprocessed'] = df_repo['title'].apply(preprocess)
-vectorizer_repo = TfidfVectorizer()
-tfidf_matrix_repo = vectorizer_repo.fit_transform(df_repo['preprocessed'])
-feature_names_repo = vectorizer_repo.get_feature_names_out()
+
 
 # --- Load info_unp.json ---
 with open("info_unp.json", "r", encoding="utf-8") as f:
-    info_data = json.load(f)['data']
+    info_data = json.load(f)
 df_info = pd.DataFrame(info_data)
 df_info['preprocessed'] = df_info['pertanyaan'].apply(preprocess)
 vectorizer_info = TfidfVectorizer()
@@ -65,7 +68,7 @@ def search_repository(query):
         output.append(f"📌 {row['title']}\n🔗 {row['link']}")
     return "\n\n".join(output) if output else None
 
-# --- Fungsi Pencarian Info UNP ---
+# --- Fungsi Pencarian Info Kampus ---
 def search_info(query):
     query_pre = preprocess(query)
     query_tokens = query_pre.split()
@@ -79,10 +82,10 @@ def search_info(query):
     output = []
     for i, _ in results[:3]:
         row = df_info.iloc[i]
-        output.append(f"❓ {row['pertanyaan']}\n✅ {row['jawaban']}")
+        output.append(f"📌 *Topik:* {row.get('topik', '-')}\n❓ {row['pertanyaan']}\n✅ {row['jawaban']}")
     return "\n\n".join(output) if output else None
 
-# --- Endpoint Telegram Bot ---
+# --- Endpoint untuk Webhook Telegram ---
 @app.route("/", methods=["POST"])
 def index():
     data = request.get_json()
